@@ -1,6 +1,7 @@
 {
   "require": {
     "craftcms/cms": "^3.7.26",
+    "verbb/image-resizer": "2.1.0",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {

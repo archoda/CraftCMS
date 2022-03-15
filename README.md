@@ -3,6 +3,7 @@
 2. Create Website URL / LocalHost (MAMP)=
     - ENSURE PHP < 8 TO NOT REQUIRE GD/ImageMagic
     - https://samsonasik.wordpress.com/2021/01/04/install-imagick-extension-for-php8-in-macos-big-sur/
+    - Update PHP.ini max_execution_time to 120 and memory_limit to 256M
 3.	Copy/Paste CraftCMS to Localhost -> web directory
 4.	Create MySQL database + privileges ( IMPORTANT: collate as utf8_unicode_ci )
 5.	Update .env file for Driver, Server, MySQL/Port, DB Name, User, Password, Prefix (craft_)
