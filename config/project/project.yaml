@@ -1,13 +1,13 @@
 dateModified: 1647363408
 email:
   fromEmail: jmallory628@gmail.com
-  fromName: ggrohorticulture
+  fromName: CraftCMS
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    954e6f1e-dbb7-4f6f-afaa-175f7bfbcb2a: Common
-    e7328637-e0a3-4b90-a1c8-ff9d5a3a610e: ggrohorticulture
-    ea0d84b4-45d0-4669-8303-f3e28ca29a6c: ggrohorticulture
+    988af354-511f-42eb-8011-5bb7cb197175: CraftCMS # CraftCMS
+    024687a5-7580-4472-8992-44bc652ff12c: CraftCMS # CraftCMS
+    b2363735-171a-4541-a98c-60ad39d17b3e: Common # Common
 plugins:
   image-resizer:
     edition: standard
@@ -16,7 +16,7 @@ plugins:
 system:
   edition: solo
   live: true
-  name: ggrohorticulture
+  name: CraftCMS
   schemaVersion: 3.7.33
   timeZone: America/Los_Angeles
 users:
